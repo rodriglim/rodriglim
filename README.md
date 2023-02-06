@@ -15,5 +15,3 @@ Atualmente, aprendendo mais sobre front-end(HTML e CSS)
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
    <img align="right" alt="rodrig-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/736x/0b/ff/dd/0bffdd84f52868861fd0e9cc0149aa1f.jpg?width=676&height=676">
 </div>
-
-##
