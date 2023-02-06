@@ -17,6 +17,3 @@ Atualmente, aprendendo mais sobre front-end(HTML e CSS)
 </div>
 
 ##
-
- <a href="https://discord.com/channels/@me/1060949292371677214" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- 
