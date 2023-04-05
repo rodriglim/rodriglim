@@ -1,6 +1,6 @@
 ### Oi, eu sou Rodrigo Lima👋
-Desenvolvedor back-end Jr, com foco em Java e Javascript<br>
-Atualmente, aprendendo mais sobre front-end(HTML e CSS)
+
+Desenvolvedor web Jr🧑‍💻
 
  <div style="display: inline_block"><br>
  <img align="center" alt="rodrig-Android" alt= "Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
