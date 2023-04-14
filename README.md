@@ -1,8 +1,8 @@
 ### Oi, eu sou Rodrigo Lima👋
 Desenvolvedor Java JR🧑‍💻<br>
 Atualmente, como Front-End, com conhecimento em Design de UX/UI.
-<hr>
- <div style="display: inline_block">
+##
+<div style="display: inline_block">
 <img align="center" alt="rodrig-Figma" alt = "Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
 <img align="center" alt="rodrig-CSS" alt = "CSS" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
