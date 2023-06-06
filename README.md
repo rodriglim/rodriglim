@@ -5,8 +5,8 @@ Conhecimento em Design de UX/UI.
 
 <div style="display: inline-block">
 <a href="https://github.com/rodriglim">
-<img height="50%" src="https://github-readme-stats.vercel.app/api?username=rodriglim&show_icons=true&bg_color=402b23&text_color=FFFFFF&title_color=ff9500&icon_color=ff9500&hide=prs,issues,contribs"/>
- <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriglim&layout=compact&langs_count=7&bg_color=402b23&text_color=FFFFFF&title_color=ff9500&icon_color=ff9500"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=rodriglim&show_icons=true&bg_color=402b23&text_color=FFFFFF&title_color=ff9500&icon_color=ff9500&hide=prs,issues,contribs"/>
+ <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriglim&layout=compact&langs_count=7&bg_color=402b23&text_color=FFFFFF&title_color=ff9500&icon_color=ff9500"/>
 </div>
  
 
