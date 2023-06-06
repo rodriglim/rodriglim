@@ -3,12 +3,13 @@ Desenvolvedor Web Jr🧑‍💻<br>
 Conhecimento em Design de UX/UI.
 ##
 
-<div>
-   
+<div style="display: inline-block">
 <a href="https://github.com/rodriglim">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriglim&show_icons=true&bg_color=402b23&text_color=FFFFFF&title_color=ff9500&icon_color=ff9500&hide=prs,issues,contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriglim&layout=compact&langs_count=7&bg_color=402b23&text_color=FFFFFF&title_color=ff9500&icon_color=ff9500"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriglim&layout=compact&langs_count=7&bg_color=402b23&text_color=FFFFFF&title_color=ff9500&icon_color=ff9500"/>
 </div>
+ 
+
 <div style="display: inline_block">
 <img align="center" alt="rodrig-Bootstrap" alt = "Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> 
 <img align="center" alt="rodrig-Figma" alt = "Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
