@@ -3,11 +3,6 @@ Desenvolvedor Web Jr🧑‍💻<br>
 Conhecimento em Design de UX/UI.
 ##
 
-<div>
-  <a href="https://github.com/rodriglim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriglim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriglim&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
    
  </div>
