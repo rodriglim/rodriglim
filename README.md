@@ -1,9 +1,13 @@
-### Hi, I'm Rodrigo Lima 👋
+## Hi, I'm Rodrigo Lima 👋
 🎓 Economics Student at UEFS<br>
-💻 Software Development • 📊 Data Analytics • 📈 Economics
+📊 Data Analytics • 📈 Economics • 💻 Software Development 
+
+## 🌱 Currently Learning
+
+- Data Science
+- Statistics
+- Financial Analysis
 ##
-
-
 <div style="display: inline_block">
 <img align="center" alt="rodrig-MySql" alt = "MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img align="center" alt="rodrig-R" alt = "R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"> 
