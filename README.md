@@ -3,9 +3,9 @@
 📊 Data Analytics • 📈 Economics • 💻 Software Development 
 
 ## 🌱 Currently Learning
-
 - Data Science
 - Statistics
+- Econometrics
 - Financial Analysis
 ##
 <div style="display: inline_block">
